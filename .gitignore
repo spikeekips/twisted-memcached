@@ -2,3 +2,7 @@
 *~
 _trial_temp/
 html
+build/
+dist/
+.*.sw?
+twisted_memcached.egg-info/
