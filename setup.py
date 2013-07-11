@@ -8,7 +8,6 @@ setup(
         url = 'https://github.com/dustin/twisted-memcached',
         description = 'memcached protocol in twisted',
         packages = find_packages('.'),
-        package_dir = {'': '.' },
         install_requires = (
                 'Twisted',
             ),
